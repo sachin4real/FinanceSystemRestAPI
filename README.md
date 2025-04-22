@@ -50,7 +50,6 @@ A comprehensive finance tracking system built with **Node.js**, **Express.js**, 
    DATABASE_URL=mongodb:
    JWT_SECRET=your_secure_jwt_secret_key
    PORT=8000
-   NODE_ENV=.env
 
 5. Start the application:
    ```
